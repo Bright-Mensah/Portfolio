@@ -388,7 +388,7 @@ error_reporting(0); // show no error for users
       </div>
     </div>
          
-<script src="buttonHideShow.js"></script>
+<script src="assets/js/buttonHideShow.js"></script>
 <?php include 'scripts.php'?>
 </body>
 </html>
