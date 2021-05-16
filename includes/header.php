@@ -36,7 +36,7 @@
     
     <script src='https://code.jquery.com/jquery-2.1.3.min.js'></script>
 
-    <link rel="stylesheet" href="loader.css">
+    <link rel="stylesheet" href="assets/css/loader.css">
 
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
