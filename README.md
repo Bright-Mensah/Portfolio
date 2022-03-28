@@ -1,1 +1,1 @@
-# second-portfolio This was a portfolio about me 
+This was a portfolio about me 
