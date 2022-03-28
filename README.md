@@ -1,1 +1,1 @@
-This was a portfolio about me 
+A portfolio about me 
